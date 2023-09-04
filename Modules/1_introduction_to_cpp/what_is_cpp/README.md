@@ -4,6 +4,7 @@ C++ is one of the most powerful and versatile programming languages in the world
 ## Topics Covered
 - Historical Background
 - Key Features of C++
+- Basic Syntax
 
 ### Historical Background
 Bjarne Stroustrup began his work on C++ in 1979. The motivation behind C++ was to combine the high efficiency and performance of C with features that made large-scale software development easier. It was originally named "C with Classes", but was later renamed to C++ in 1983, where the "++" signifies the increment operator in C - symbolically indicating an evolution from C.
