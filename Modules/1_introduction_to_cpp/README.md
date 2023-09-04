@@ -4,6 +4,7 @@ C++ is one of the most powerful and versatile programming languages in the world
 ## Topics Covered
 - Historical Background
 - Key Features of C++
+- Setting up Visual Studio 2019 for C++ Development
 - Basic Syntax
 
 ### Historical Background
@@ -22,6 +23,32 @@ Due to its capability to operate at a low level, C++ is often chosen for system 
 Typically, C++ code needs to be compiled for each platform it runs on. However, with the correct considerations, it's possible to write platform-independent code.
 6. Extensions of C:
 Being a superset of C, nearly all of C's features and properties are present in C++ - hence, a good C programmer finds it relatively easier to transition to C++.
+
+## Setting up Visual Studio 2019 for C++ Development
+### 1. Installation:
+If you haven't already installed Visual Studio 2019:
+
+- Download the Visual Studio 2019 installer from the [official website](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes).
+- Run the installer.
+
+### 2. Select Workloads:
+During the installation process, you will be prompted to select the workloads you want. Check the box for Desktop development with C++. This will install the necessary tools for C++ development, including the MSVC compiler, libraries, and debugging tools.
+
+### 3. Installation Path and Space:
+Before you finalize the installation:
+
+- Check the total space required, ensuring you have enough disk space.
+- Optionally, you can change the installation path if you wish to install Visual Studio in a location other than the default.
+
+### 4. Install:
+- Click the `Install` button.
+- Wait for the installation process to complete. This may take a while depending on your internet speed, as the installer will download necessary components.
+
+### 5. Launch Visual Studio:
+Once the installation is complete:
+
+- Launch Visual Studio 2019.
+- The first time you launch, you'll be prompted to sign in with a Microsoft account. This step is optional but can be useful for syncing settings between devices.
 
 ### Basic Syntax
 Before diving into syntax details, let's explore the classic "Hello, World!" program. You can find the program example here: [HelloWorld.cpp](https://github.com/T3mps/CodingLodestar/blob/main/Modules/1_introduction_to_cpp/what_is_cpp/HelloWorld.cpp).
