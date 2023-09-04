@@ -21,3 +21,8 @@ Due to its capability to operate at a low level, C++ is often chosen for system 
 Typically, C++ code needs to be compiled for each platform it runs on. However, with the correct considerations, it's possible to write platform-independent code.
 6. Extensions of C:
 Being a superset of C, nearly all of C's features and properties are present in C++ - hence, a good C programmer finds it relatively easier to transition to C++.
+
+### Basic Syntax
+Before diving into syntax details, let's explore the classic "Hello, World!" program. You can find the program example here: [HelloWorld.cpp](https://github.com/T3mps/CodingLodestar/blob/main/Modules/1_introduction_to_cpp/what_is_cpp/HelloWorld.cpp).
+
+In that file, you'll see how to use the standard input-output stream library to print "Hello, World!" to the console, marking many learners' first step into the world of C++.
